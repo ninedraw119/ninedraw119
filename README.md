@@ -35,7 +35,7 @@ Advanced knowledge in scripting for Roblox Studio, creating complex game logic a
 Experienced in designing custom game mechanics, AI behaviors, and in-game UI systems.
 Familiar with Roblox's services and APIs for managing data storage, leaderboards, and player interactions.
 
-HTML (Intermediate):
+- HTML (Intermediate):
 
 Proficient in building semantic, accessible, and well-structured web pages using HTML5.
 Familiar with creating forms, embedding media, and using modern HTML elements to enhance content and SEO.
@@ -63,7 +63,7 @@ Currently exploring more advanced JS concepts and looking to improve through pra
 
 ##
 
-### Besides at that
+### Besides all that
 
 - I like Pokemon :D
 - I am christian
