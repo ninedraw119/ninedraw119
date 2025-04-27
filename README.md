@@ -30,3 +30,7 @@
 - I am brazilian
 - I like videogames
 - I play piano and flute
+
+### Contact me on:
+
+[![Email](https://img.shields.io/badge/Email-ninedrawcontato%40gmail.com-blue)](mailto:ninedrawcontato@gmail.com)
