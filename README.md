@@ -8,6 +8,13 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  <img align="center" alt="Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
 </div>
+<table>
+  <a href="https://github.com/leehxd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
+</table>
 
 ##
 
@@ -15,6 +22,8 @@
 - 🔭 I’m currently working on an Pokedex project
 - 🌱 I’m currently learning Lua and JavaScript
 - 😄 Pronouns: He/Him
+
+##
 
 ### Technical Skills
 - Luau:
@@ -41,9 +50,13 @@ Currently exploring more advanced JS concepts and looking to improve through pra
 
 ### My projects 
 
+##
+
 - [Anonymous Chat](https://anom-chat.onrender.com)
 - [Marry Online](https://mwyfco.netlify.app/)
 - [Free Games on Epic Games](https://freegamesepic.netlify.app/)
+
+##
 
 ### Besides at that
 
@@ -53,8 +66,12 @@ Currently exploring more advanced JS concepts and looking to improve through pra
 - I like videogames
 - I play piano and flute
 
+##
+
 ### Contact me on:
 
 <a href="mailto:ninedrawcontato@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/ninedrawsla/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-ff3386?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/profile.php?id=61555479290129" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+
+##
