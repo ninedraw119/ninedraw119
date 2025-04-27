@@ -12,7 +12,6 @@
  <img align="center" alt="Lua" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
 </div>
 
-##
 
 <table>
   <a href="https://github.com/ninedraw119">
