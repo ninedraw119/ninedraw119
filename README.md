@@ -15,7 +15,29 @@
 - 🔭 I’m currently working on an Pokedex project
 - 🌱 I’m currently learning Lua and JavaScript
 - 😄 Pronouns: He/Him
-- 🧑‍💻 I am intermediate on CSS and HTML
+
+### Technical Skills
+- Luau:
+Advanced knowledge in scripting for Roblox Studio, creating complex game logic and interactive elements.
+Experienced in designing custom game mechanics, AI behaviors, and in-game UI systems.
+Familiar with Roblox's services and APIs for managing data storage, leaderboards, and player interactions.
+
+HTML (Intermediate):
+
+Proficient in building semantic, accessible, and well-structured web pages using HTML5.
+Familiar with creating forms, embedding media, and using modern HTML elements to enhance content and SEO.
+
+- CSS (Intermediate):
+
+Skilled in building responsive layouts using Flexbox and CSS Grid.
+Comfortable with CSS animations and transitions to improve user interaction and visual appeal.
+Experience with custom themes, CSS variables, and working with pre-processors like Sass for clean and efficient styling.
+
+- JavaScript (Beginner):
+
+Basic understanding of vanilla JavaScript for simple DOM manipulation and event handling.
+Eager to expand knowledge in asynchronous programming (Promises, async/await) and working with APIs.
+Currently exploring more advanced JS concepts and looking to improve through practice.
 
 ### My projects 
 
