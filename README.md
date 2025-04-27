@@ -23,7 +23,7 @@
 ##
 
 ### About me 
-- 🔭 I’m currently working on an Pokedex project
+- 🔭 I’m currently working on a Pokedex project
 - 🌱 I’m currently learning Lua and JavaScript
 - 😄 Pronouns: He/Him
 
