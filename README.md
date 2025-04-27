@@ -4,7 +4,6 @@
 
 ##
 
-# Programming Languages
  <div
  style="display: inline_block">
   <img align="center" alt="HTML5" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
