@@ -17,3 +17,16 @@
 - 😄 Pronouns: He/Him
 - 🧑‍💻 I am intermediate on CSS and HTML
 
+### My projects 
+
+- [Anonymous Chat](https://anom-chat.onrender.com)
+- [Marry Online](https://mwyfco.netlify.app/)
+- [Free Games on Epic Games](https://freegamesepic.netlify.app/)
+
+### Besides at that
+
+- I like Pokemon :D
+- I am christian
+- I am brazilian
+- I like videogames
+- I play piano and flute
