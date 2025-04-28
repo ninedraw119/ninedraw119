@@ -76,7 +76,7 @@ Currently exploring more advanced JS concepts and looking to improve through pra
 
 ### Contact me on:
 
-<a href="mailto:ninedrawcontato@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:ninedrawcontact@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/ninedrawsla/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-ff3386?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/profile.php?id=61555479290129" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
