@@ -30,7 +30,7 @@
 ##
 
 ### Technical Skills
-- Luau:
+- Luau (Begginer):
 Advanced knowledge in scripting for Roblox Studio, creating complex game logic and interactive elements.
 Experienced in designing custom game mechanics, AI behaviors, and in-game UI systems.
 Familiar with Roblox's services and APIs for managing data storage, leaderboards, and player interactions.
@@ -52,9 +52,9 @@ Basic understanding of vanilla JavaScript for simple DOM manipulation and event 
 Eager to expand knowledge in asynchronous programming (Promises, async/await) and working with APIs.
 Currently exploring more advanced JS concepts and looking to improve through practice.
 
-### My projects 
-
 ##
+
+### My projects 
 
 - [Anonymous Chat](https://anom-chat.onrender.com)
 - [Marry Online](https://mwyfco.netlify.app/)
